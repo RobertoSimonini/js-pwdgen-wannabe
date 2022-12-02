@@ -27,3 +27,6 @@ const userSurname = prompt('Quale è il tuo cognome?');
 
 const favColor = prompt('Quale è il tuo colore preferito?');
 // // console.log(favColor);
+
+const userAge = '21';
+// // console.log(userAge);
