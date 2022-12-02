@@ -29,4 +29,6 @@ const favColor = prompt('Quale è il tuo colore preferito?');
 // // console.log(favColor);
 
 const userAge = '21';
-// // console.log(userAge);
+// // console.log(userAge)
+
+Passwordelement.innerText = userName + userSurname + favColor + userAge;
