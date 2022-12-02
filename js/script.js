@@ -9,4 +9,11 @@
 
 */
 
+// Prendo l'elemento dal DOM //
 const Passwordelement = document.getElementById ('Password');
+// // console.log(Passwordelement);
+
+// Chiedo il nome dell'utente //
+
+const userName = prompt('Quale è il tuo nome?');
+// // console.log(userName);
