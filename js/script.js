@@ -17,3 +17,8 @@ const Passwordelement = document.getElementById ('Password');
 
 const userName = prompt('Quale è il tuo nome?');
 // // console.log(userName);
+
+// Chiedo il cognome dell'utente //
+
+const userSurname = prompt('Quale è il tuo cognome?');
+// // console.log(userSurname);
